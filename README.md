@@ -29,4 +29,5 @@
 
 
 ## Bottleneck Point
-<img width="1035" alt="Screenshot 2023-01-27 at 3 21 58 PM" src="https://user-images.githubusercontent.com/67514655/215054296-c1a21f2e-3ea9-4dca-9022-f6c3411a7e06.png">
+
+![Screenshot_1](https://user-images.githubusercontent.com/67514655/215314751-c170fbbb-c5dc-4d80-a5af-f7d5318d5d44.png)
